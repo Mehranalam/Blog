@@ -1,4 +1,7 @@
-# blog
+# Blog
+
+<img src="/src/assets/Images/Screenshot.png" 
+        alt="this is a photo" width="600" height="300">
 
 ## Project setup
 ```
@@ -15,10 +18,7 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Todo :
+- [ ] add Vue Router
+- [ ] add Content Folder
+- [ ] add Blog Component
