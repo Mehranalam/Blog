@@ -1,0 +1,61 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-tap-highlight-color: transparent;
+    font-family:'IRANYekanMedium' ,Arial, Helvetica, sans-serif;
+}
+
+body {
+    font-family: "DevelopixIranYekan", Arial, Helvetica, sans-serif;
+    direction: rtl;
+    overflow-x: hidden;
+    line-height: 2;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: var(--bg-color);
+    color: var(--text-color);
+    max-width: 100vw;
+}
+
+body::-webkit-scrollbar {
+    width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar);
+    outline: none;
+    border-radius: 10000px;
+    overflow: hidden;
+}
+
+a {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.no-select {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    pointer-events: none;
+}
+
+.holder {
+    margin: auto;
+    max-width: 1120px;
+    width: 100%;
+    padding: 0 16px;
+}
