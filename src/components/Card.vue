@@ -51,6 +51,7 @@ export default {
 }
 
 .child .pa {
+    margin-top: 3%;
     font-size: smaller;
 }
 </style>

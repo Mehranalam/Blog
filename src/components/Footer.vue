@@ -16,5 +16,6 @@ export default {
 footer {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 3%;
 }
 </style>
