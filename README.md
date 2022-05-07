@@ -1,7 +1,7 @@
 # Blog
 
 <div align="center">
-        <img src="src\assets\Images\Screenshot.png" 
+        <img src="src\assets\Images\Screen Shot.png" 
         alt="this is a photo" width="600" height="300">
         <br>
         </div>
