@@ -7,6 +7,8 @@
         </div>
 <br>
 
+- This project was separate from being a blog for publishing specialized posts, an exercise for understanding flex, and an exercise for vue.js
+
 Todo :
 - [ ] add Vue Router
 - [ ] add Content Folder
