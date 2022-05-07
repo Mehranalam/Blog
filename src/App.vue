@@ -1,7 +1,10 @@
 <template> 
   <div class="holder">
     <div class="diva">
-      <h2>مهران علم بیگی</h2>
+      <div class="rowC">
+        <i class="icon-mehranalam"></i>
+        <h2> مهران علم بیگی</h2>
+      </div>
       <ul>
         <li> رزومه</li>
         <li> پروژه ها</li>
@@ -40,6 +43,12 @@ export default {
   flex-direction: row;
   justify-content: space-between;
   margin-top: 3%;
+}
+
+.rowC {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 ul li {

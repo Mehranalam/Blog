@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?qmdwme');
-  src:  url('fonts/icomoon.eot?qmdwme#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?qmdwme') format('truetype'),
-    url('fonts/icomoon.woff?qmdwme') format('woff'),
-    url('fonts/icomoon.svg?qmdwme#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?pve34j');
+  src:  url('fonts/icomoon.eot?pve34j#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?pve34j') format('truetype'),
+    url('fonts/icomoon.woff?pve34j') format('woff'),
+    url('fonts/icomoon.svg?pve34j#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-check-circle:before {
+.icon-checkmark:before {
   content: "\e900";
 }

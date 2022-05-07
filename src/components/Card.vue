@@ -3,21 +3,30 @@
       <div class="child">
         <img src="../assets/Images/white.jpg" 
         alt="a littel photo" width="200" height="120">
-        <p class="pa">انتشار یافته در اردیبشهت 14001</p>
+        <div class="rowCAs">
+            <i class="icon-checkmark"></i>
+            <p>ارسال شده در 2/3/2022</p>
+          </div>
         <h4>لورم ایپسوم متن ساختگی با تولید سادگی</h4>
         <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است</p>
       </div>
       <div class="child">
         <img src="../assets/Images/white.jpg" 
         alt="a littel photo" width="200" height="120">
-        <p class="pa">انتشار یافته در اردیبشهت</p>
+        <div class="rowCAs">
+            <i class="icon-checkmark"></i>
+            <p>ارسال شده در 2/3/2022</p>
+          </div>
         <h4>لورم ایپسوم متن ساختگی با تولید سادگی</h4>
         <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است</p>
       </div>
       <div class="child">
         <img src="../assets/Images/white.jpg" 
         alt="a littel photo" width="200" height="120">
-        <p class="pa">انتشار یافته در اردیبشهت</p>
+        <div class="rowCAs">
+            <i class="icon-checkmark"></i>
+            <p>ارسال شده در 2/3/2022</p>
+          </div>
         <h4>لورم ایپسوم متن ساختگی با تولید سادگی</h4>
         <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است</p>
       </div>
@@ -50,8 +59,13 @@ export default {
   border-radius: 16px;
 }
 
-.child .pa {
-    margin-top: 3%;
-    font-size: smaller;
+.child p {
+  font-size: small;
+}
+
+.rowCAs {
+  display: flex;
+  flex-direction: row;
+  margin-top: 3%;
 }
 </style>
