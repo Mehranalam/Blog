@@ -6,6 +6,7 @@
         <h2> مهران علم بیگی</h2>
       </div>
       <ul>
+        <li> خانه</li>
         <li> رزومه</li>
         <li> پروژه ها</li>
         <li> درخواست پروژه</li>
@@ -49,6 +50,10 @@ export default {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+.rowC:hover {
+  cursor: pointer;
 }
 
 ul li {
