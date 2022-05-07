@@ -17,3 +17,7 @@ Todo :
 - [ ] add Content Folder
 - [ ] add Blog Component
 - [ ] Responsive Part
+- [ ] CV Part
+- [ ] Project Requests Submit
+- [ ] Learn By Code Part
+- [ ] Projects Component
