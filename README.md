@@ -22,3 +22,4 @@ Todo :
 
 info :
 - UI Idea : https://dribbble.com/shots/15238065-Blog-Personal-Website/attachments/6986428?mode=media
+- Color Palette : https://colorhunt.co/palette/f9ebc8fefbe7dae5d0a0bcc2
