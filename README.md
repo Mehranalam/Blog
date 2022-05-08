@@ -7,6 +7,8 @@
         </div>
 <br>
 
+- This project was separate from being a blog for publishing specialized posts, an exercise for understanding flex, and an exercise for vue.js
+
 Todo :
 - [ ] add Vue Router
 - [ ] add Content Folder
@@ -20,3 +22,4 @@ Todo :
 
 info :
 - UI Idea : https://dribbble.com/shots/15238065-Blog-Personal-Website/attachments/6986428?mode=media
+- Color Palette : https://colorhunt.co/palette/f9ebc8fefbe7dae5d0a0bcc2
