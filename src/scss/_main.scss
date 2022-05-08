@@ -53,9 +53,25 @@ ul {
     pointer-events: none;
 }
 
+#notResponsive {
+    display: none;
+}
+
 .holder {
     margin: auto;
     max-width: 1120px;
     width: 100%;
     padding: 0 16px;
+}
+
+/* this web site in now not Responsive */
+
+@media only screen and (max-width: 900px) {
+    #app {
+        display: none;
+    }
+
+    #notResponsive {
+        display: contents;
+    }
 }
