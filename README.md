@@ -12,7 +12,7 @@
 Todo :
 - [X] add Vue Router
 - [ ] add Content Folder
-- [ ] add Blog Component
+- [X] add Blog Component
 - [ ] Responsive Part
 - [ ] CV Part
 - [ ] Project Requests Submit
