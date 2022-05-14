@@ -10,9 +10,9 @@
 - This project was separate from being a blog for publishing specialized posts, an exercise for understanding flex, and an exercise for vue.js
 
 Todo :
-- [ ] add Vue Router
+- [X] add Vue Router
 - [ ] add Content Folder
-- [ ] add Blog Component
+- [X] add Blog Component
 - [ ] Responsive Part
 - [ ] CV Part
 - [ ] Project Requests Submit
