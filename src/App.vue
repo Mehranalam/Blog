@@ -33,7 +33,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .diva {
   display: flex;
   flex-direction: row;

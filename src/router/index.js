@@ -10,7 +10,7 @@ const routes = [
   {
     path: '/lunch',
     name: 'about',
-    component: () => import('../views/IsLunch.vue')
+    component: () => import('../components/Post.vue')
   }
 ]
 
