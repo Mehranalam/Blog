@@ -1,7 +1,14 @@
 # <img width="40" src="https://raw.githubusercontent.com/Mehranalam/Blog/855d089b730c15a5445944441069a9e7cf202042/src/assets/Images/Icons/Mh.svg" alt="Blog Logo"> [Blog](#)
 
        
-- This project was separate from being a blog for publishing specialized posts, an exercise for understanding flex, and an exercise for vue.js
+- This project was separate from being a blog for publishing specialized posts, an exercise for understanding flex, and an exercise for vue.js.
+
+
+## last posts ;
+
+<div align="center">
+       No post has been published yet and the site has not been launched.
+       </div>
         
 Todo :
 - [X] add Vue Router
