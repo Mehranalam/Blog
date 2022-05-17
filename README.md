@@ -1,4 +1,4 @@
-# <img width="40" src="https://github.com/ThisIsMatin/OrdakOrdakBoro/raw/main/frontend/static/img/ordak_logo2.png" alt="OrdakOrdakBoro Logo"> [OrdakOrdakBoro!](#)
+# <img width="40" src="https://github.com/ThisIsMatin/OrdakOrdakBoro/raw/main/frontend/static/img/ordak_logo2.png" alt="Blog Logo"> [Blog](#)
 
        
 - This project was separate from being a blog for publishing specialized posts, an exercise for understanding flex, and an exercise for vue.js
