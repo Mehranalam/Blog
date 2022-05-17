@@ -3,7 +3,7 @@
        
 - A website created with vue for publishing scientific content, resumes, projects Section and *learn by code* Section.
 
-*It is non-commercial and in any form of this project is unrestricted and is published and maintained under the GPL license.*
+*It is non-commercial and in any form of this project is unrestricted and is published and maintained under the GPL-3.0 license.*
 
 ## last posts :
 
