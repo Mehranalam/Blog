@@ -1,4 +1,4 @@
-# <img width="50" src="https://raw.githubusercontent.com/Mehranalam/Blog/855d089b730c15a5445944441069a9e7cf202042/src/assets/Images/Icons/Mh.svg" height="50" alt="Blog Logo"> [Blog](#)
+# <img width="40" src="https://raw.githubusercontent.com/Mehranalam/Blog/855d089b730c15a5445944441069a9e7cf202042/src/assets/Images/Icons/Mh.svg" height="30" alt="Blog Logo"> [Blog](#)
 
        
 - This project was separate from being a blog for publishing specialized posts, an exercise for understanding flex, and an exercise for vue.js
