@@ -8,9 +8,9 @@
 
 <div align="center">
        <i>
-       No post has been published yet and the site has not been launched.</p>
+       No post has been published yet and the site has not been launched.
        </i>
-        
+        </div>
 Todo :
 - [X] add Vue Router
 - [ ] add Content Folder
