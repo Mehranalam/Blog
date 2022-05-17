@@ -1,14 +1,8 @@
-# Blog
+# <img width="40" src="https://github.com/ThisIsMatin/OrdakOrdakBoro/raw/main/frontend/static/img/ordak_logo2.png" alt="OrdakOrdakBoro Logo"> [OrdakOrdakBoro!](#)
 
-<div align="center">
-        <img src="src\assets\Images\Screen Shot.png" 
-        alt="this is a photo" width="600" height="300">
-        <br>
-        </div>
-<br>
-
+       
 - This project was separate from being a blog for publishing specialized posts, an exercise for understanding flex, and an exercise for vue.js
-
+        
 Todo :
 - [X] add Vue Router
 - [ ] add Content Folder
