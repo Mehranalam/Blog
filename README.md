@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Mehranalam/Blog/main/public/faviconFolder/mstile-70x70.png" alt="Blog Logo"> [Blog](#)
 
-       
-- A website created with vue for publishing scientific content, resumes, projects Section and *learn by code* Section.
+      
+- <img src="https://raw.githubusercontent.com/Mehranalam/Blog/main/public/faviconFolder/favicon-32x32.png" alt="Blog Logo"> A website created with vue for publishing scientific content, resumes, projects Section and *learn by code* Section.
 
 *It is non-commercial and in any form of this project is unrestricted and is published and maintained under the GPL-3.0 license.*
 
