@@ -4,11 +4,12 @@
 - This project was separate from being a blog for publishing specialized posts, an exercise for understanding flex, and an exercise for vue.js.
 
 
-## last posts ;
+## last posts :
 
 <div align="center">
-       No post has been published yet and the site has not been launched.
-       </div>
+       <i>
+       No post has been published yet and the site has not been launched.</p>
+       </i>
         
 Todo :
 - [X] add Vue Router
