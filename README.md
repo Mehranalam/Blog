@@ -1,4 +1,4 @@
-# <img width="40" src="https://raw.githubusercontent.com/Mehranalam/Blog/855d089b730c15a5445944441069a9e7cf202042/src/assets/Images/Icons/Mh.svg" alt="Blog Logo"> [Blog](#)
+# <img src="https://raw.githubusercontent.com/Mehranalam/Blog/main/public/faviconFolder/mstile-70x70.png" alt="Blog Logo"> [Blog](#)
 
        
 - A website created with vue for publishing scientific content, resumes, projects Section and *learn by code* Section.
