@@ -16,7 +16,7 @@
         
 Todo :
 - [X] add Vue Router
-- [ ] add Content Folder
+- [X] add Content Folder
 - [X] add Blog Component
 - [ ] Responsive Part
 - [ ] CV Part
