@@ -1,5 +1,17 @@
 {
-  "Title":"سلام دنیا!",
-  "DataPublished":"24 اردیبهشت",
-  "IntroContent": "سلام دنیا عنوان اولین مقاله من ، در این نوشته میتوانید درباره من و نحوه شکل گیری این بلاگ بفهمید"
+  "D2022P05" : {
+    "id": 45,
+    "categories" : "عمومی",
+    "publishedDay": "اردیبهشت 01",
+    "Auther":"مهران علم بیگی",
+    "mainTitle": "سلام دنیا !",
+    "Title1": "چرا وبلاگ ؟",
+    "Title2": "ابزار های استفاده شده در ساخت این وبلاگ",
+    "Title3": "ارتباط با من",
+    "Title4": "مشارکت",
+    "Title5": "محور اصلی مقاله ها",
+    "MainImage":"ScreenoShot.png",
+    "Imagesrc1":"ScreenoShot.png",
+    "Imagesrc2":"ScreenoShot.png"
+  }
 }

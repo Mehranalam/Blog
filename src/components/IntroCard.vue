@@ -2,23 +2,30 @@
   <div class="blog">
       <h1>وبلاگ</h1>
       <div class="box-holder">
-        <img src="../assets/Images/white.jpg" 
+        <img src="../assets/Images/white.jpg"
         alt="this is a photo" width="600" height="300">
         <div class="content">
           <div class="rowCAs">
             <i class="icon-checkmark"></i>
-            <p>ارسال شده در اردیبهشت 1400</p>
+            <p>منتشر شده دراردیبهشت</p>
           </div>
           <h3>سلام دنیا</h3>
-          <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد</p>
+          <p>خوب خوب بلاخره این وبلاگ هم تموم شد و اولین پست رو به میزبانی گیت هاب عزیز منتشر میکنم به قول معروف سلام دنیا اما اما وبلاگ هنوز کامل کامل نیستو کلی از کاراش مونده پس طبیعیه تو بعضی جاها احساس بد کنید ...</p>
+          <ButtonVue />
         </div>
       </div>
     </div>
 </template>
 
 <script>
+import ButtonVue from "./Button.vue"
+
+
 export default {
- name: 'theIntroCard'
+ name: 'theIntroCard',
+ components: {
+   ButtonVue
+ }
 }
 </script>
 
@@ -35,6 +42,10 @@ export default {
 
 .box-holder img {
   border-radius: 16px;
+}
+
+.box-holder img:hover {
+  cursor: pointer;
 }
 
 .content {

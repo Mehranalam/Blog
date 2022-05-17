@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
-    "vue-router": "^4.0.3"
+    "vue-router": "^4.0.15"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -21,6 +21,7 @@
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
+    "raw-loader": "^4.0.2",
     "sass": "^1.51.0",
     "sass-loader": "^12.6.0",
     "vue-loader": "^17.0.0"

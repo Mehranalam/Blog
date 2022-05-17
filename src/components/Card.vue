@@ -1,7 +1,7 @@
 <template>
    <div class="card">
       <div class="child">
-        <img src="../assets/Images/white.jpg" 
+        <img src="../assets/Images/white.jpg"
         alt="a littel photo" width="200" height="120">
         <div class="rowCAs">
             <i class="icon-checkmark"></i>
@@ -12,7 +12,7 @@
         <ButtonVue />
       </div>
       <div class="child">
-        <img src="../assets/Images/white.jpg" 
+        <img src="../assets/Images/white.jpg"
         alt="a littel photo" width="200" height="120">
         <div class="rowCAs">
             <i class="icon-checkmark"></i>
@@ -23,7 +23,7 @@
         <ButtonVue />
       </div>
       <div class="child">
-        <img src="../assets/Images/white.jpg" 
+        <img src="../assets/Images/white.jpg"
         alt="a littel photo" width="200" height="120">
         <div class="rowCAs">
             <i class="icon-checkmark"></i>
@@ -61,6 +61,7 @@ export default {
   flex-direction: column;
   width:200px ;
   margin-left: 3%;
+  margin-bottom: 3%;
 }
 
 .child img {
