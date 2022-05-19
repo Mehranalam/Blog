@@ -4,7 +4,7 @@
       <h2>{{mainTitle}}</h2>
       <a href='https://github.com/mehranalam'><button type="button" name="button">فورک این محتوا در گیتهاب</button></a>
     </div>
-    <img class="imgintro" :src="require(`../assets/Images/${MainImage}`)" alt="Main Blog Photo" height="300" width="620">
+    <img class="imgintro" :src="require(`../assets/Images/ContentImage/${MainImage}`)" alt="Main Blog Photo" height="300" width="620">
     <div class="boxify">
       <div class="intro">
         <i class="icon-bell"></i>
@@ -34,7 +34,7 @@
       <p v-for="paragraph in letter1" :key="paragraph">
         {{paragraph}}
       </p>
-      <img :src="require(`../assets/Images/${Imagesrc1}`)" alt="Main Blog Photo" height="300" width="620">
+      <img :src="require(`../assets/Images/ContentImage/${Imagesrc1}`)" alt="Main Blog Photo" height="300" width="620">
       <h3 id="2">{{Title2}}</h3>
       <p v-for="paragraph in letter2" :key="paragraph">
         {{paragraph}}
@@ -46,7 +46,7 @@
       <p v-for="paragraph in letter3" :key="paragraph">
         {{paragraph}}
       </p>
-      <img :src="require(`../assets/Images/${Imagesrc2}`)" alt="Main Blog" height="300" width="620">
+      <img :src="require(`../assets/Images/ContentImage/${Imagesrc2}`)" alt="Main Blog" height="300" width="620">
       <h3 id="4">{{Title4}}</h3>
       <p v-for="paragraph in letter4" :key="paragraph">
         {{paragraph}}
@@ -150,7 +150,7 @@ li:hover {
   font-size: 15px;
   width: 620px;
   align-self: center;
-  background-color: #d5dcce;
+  background-color: #FEFBE7;
   padding: 16px;
   border-radius: 13px;
 }
@@ -159,7 +159,7 @@ button {
   margin: 0;
   border: none;
   border-radius: 7px;
-  background-color: #d5dcce;
+  background-color: #FEFBE7;
   height: 40px;
   cursor: pointer;
   padding: 10px;
