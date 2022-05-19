@@ -1,17 +1,22 @@
-# Blog
+# <img width=40 src="https://raw.githubusercontent.com/Mehranalam/Blog/main/public/faviconFolder/favicon-32x32.png" alt="Blog Logo"> [Blog](#)
+      
+- A website created with vue for publishing scientific content, resumes, projects Section and *learn by code* Section.
+
+*It is non-commercial and in any form of this project is unrestricted and is published and maintained under the GPL-3.0 license.*
+
+## last posts :
 
 <div align="center">
-        <img src="src\assets\Images\Screen Shot.png" 
-        alt="this is a photo" width="600" height="300">
-        <br>
-        </div>
-<br>
-
-- This project was separate from being a blog for publishing specialized posts, an exercise for understanding flex, and an exercise for vue.js
-
+       <i>
+       No post has been published yet and the site has not been launched.
+       </i>
+   </div>
+        <hr>
+        
+        
 Todo :
 - [X] add Vue Router
-- [ ] add Content Folder
+- [X] add Content Folder
 - [X] add Blog Component
 - [ ] Responsive Part
 - [ ] CV Part
