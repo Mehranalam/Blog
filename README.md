@@ -5,11 +5,11 @@
     <br>
     <b>An open source blog built with vue.js</b>
     <br>
-    <a href="/TODO.md">
+    <a href="TODO.md">
         Remaining items
     </a>
     •
-    <a href="https://docs.pyrogram.org">
+    <a href="Development algorithm/index.md">
         Development algorithm
     </a>
     •
