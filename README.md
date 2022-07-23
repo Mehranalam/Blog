@@ -9,7 +9,7 @@
         Remaining items
     </a>
     •
-    <a href="Development algorithm/index.md">
+    <a href="https://github.com/Mehranalam/Blog/blob/main/%20Development%20algorithm/index.md">
         Development algorithm
     </a>
     •
