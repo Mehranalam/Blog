@@ -52,6 +52,7 @@ export default {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  margin-bottom: 120px;
 }
 
 .child {

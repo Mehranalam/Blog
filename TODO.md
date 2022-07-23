@@ -1,0 +1,13 @@
+- [X] add Vue Router
+- [X] add Content Folder
+- [X] add Blog Component
+- [ ] Responsive Part
+- [ ] CV Part
+- [ ] Project Requests Submit
+- [ ] Learn By Code Part
+- [ ] Projects Component
+- [ ] Home Part
+- [ ] Dynamic Cards and get posts 
+- [ ] sugges post in README.md with githubActions
+- [ ] Clean Architecture
+

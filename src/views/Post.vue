@@ -150,7 +150,7 @@ li:hover {
   font-size: 15px;
   width: 620px;
   align-self: center;
-  background-color: #FEFBE7;
+  background-color: #c7c0a5;
   padding: 16px;
   border-radius: 13px;
 }
@@ -159,8 +159,9 @@ button {
   margin: 0;
   border: none;
   border-radius: 7px;
-  background-color: #FEFBE7;
+  background-color: #c7c0a5;
   height: 40px;
+  color: rgb(58, 55, 55);
   cursor: pointer;
   padding: 10px;
 }

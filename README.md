@@ -1,30 +1,39 @@
-# <img width=40 src="https://raw.githubusercontent.com/Mehranalam/Blog/main/public/faviconFolder/favicon-32x32.png" alt="Blog Logo"> [Blog](#)
-      
-- A website created with vue for publishing scientific content, resumes, projects Section and *learn by code* Section.
+<p align="center">
+    <a href="https://github.com/pyrogram/pyrogram">
+        <img src="public/faviconFolder/mstile-144x144.png" alt="Pyrogram" width="128">
+    </a>
+    <br>
+    <b>An open source blog built with vue.js</b>
+    <br>
+    <a href="/TODO.md">
+        Remaining items
+    </a>
+    •
+    <a href="https://docs.pyrogram.org">
+        Development algorithm
+    </a>
+    •
+    <a href="LICENSE">
+        License
+    </a>
+    •
+    <a href="src/content">
+        .md posts
+    </a>
+</p>
 
-*It is non-commercial and in any form of this project is unrestricted and is published and maintained under the GPL-3.0 license.*
 
-## last posts :
+## Contributing
 
-<div align="center">
-       <i>
-       No post has been published yet and the site has not been launched.
-       </i>
-   </div>
-        <hr>
-        
-        
-Todo :
-- [X] add Vue Router
-- [X] add Content Folder
-- [X] add Blog Component
-- [ ] Responsive Part
-- [ ] CV Part
-- [ ] Project Requests Submit
-- [ ] Learn By Code Part
-- [ ] Projects Component
-- [ ] Home Part
+You can add new features to this project by forking it. If you don't have an idea, you can choose from the [TODO](TODO.md) section and work to make this project bigger.
 
-info :
-- UI Idea : https://dribbble.com/shots/15238065-Blog-Personal-Website/attachments/6986428?mode=media
-- Color Palette : https://colorhunt.co/palette/f9ebc8fefbe7dae5d0a0bcc2
+
+For local development, [npm](https://www.npmjs.com/) is preferred as package manager:
+
+```bash
+npm install
+
+npm run serve
+```
+
+This project requires Node.js to be `v14.0.0` or higher, because we use new JavaScript features in our code, such as optional chaining.

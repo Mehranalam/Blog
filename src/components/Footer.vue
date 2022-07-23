@@ -2,7 +2,7 @@
   <footer>
       <div class="rowCA">
           <i class="icon-github"></i>
-          <p>این وب سایت کاملا <a href="https://github.com/Mehranalam/Blog"><span style="color:#A0BCC2;">متن باز</span></a> است</p>
+          <p>این وب سایت کاملا <a href="https://github.com/Mehranalam/Blog"><span style="color:#55682f;">متن باز</span></a> است</p>
       </div>
       <span class="icon-mehranalam"></span>
   </footer>

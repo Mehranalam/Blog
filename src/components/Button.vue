@@ -13,17 +13,17 @@ button {
     border: none;
     margin-top: 20px;
     border-radius: 16px;
-    background-color: #d5dcce;
+    background-color: #888d83;
     height: 40px;
     cursor: pointer;
 }
 
 button:hover {
     border: solid;
-    border-color: #d5dcce;
+    border-color: #829b69;
     margin-top: 20px;
     background-color: var(--bg-color);
-    color: #a4a5a2;
+    color: #55682f;
     border-radius: 16px;
     height: 40px;
     cursor: pointer;
