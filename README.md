@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/pyrogram/pyrogram">
+    <a href="https://github.com/mehranalam">
         <img src="public/faviconFolder/mstile-144x144.png" alt="Pyrogram" width="128">
     </a>
     <br>
