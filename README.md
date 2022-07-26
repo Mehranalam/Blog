@@ -37,3 +37,5 @@ npm run serve
 ```
 
 This project requires Node.js to be `v14.0.0` or higher, because we use new JavaScript features in our code, such as optional chaining.
+
+[![status](https://img.shields.io/badge/status-in%20Process-orange)](https://github.com/Mehranalam/)
