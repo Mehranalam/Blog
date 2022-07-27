@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/mehranalam">
-        <img src="public/faviconFolder/mstile-144x144.png" alt="Pyrogram" width="128">
+        <img src="public/faviconFolder/mstile-144x144.png" alt="Blog" width="128">
     </a>
     <br>
     <b>An open source blog built with vue.js</b>
