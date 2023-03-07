@@ -19,6 +19,7 @@ footer {
     display: flex;
     justify-content: space-between;
     margin-bottom: 3%;
+    margin-top: 30px;
 }
 
 .rowCA {

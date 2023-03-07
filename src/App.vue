@@ -8,7 +8,7 @@
       <ul>
         <li> <router-link  to="/"> خانه</router-link></li>
         <li> <router-link  to="/demo"> رزومه</router-link></li>
-        <li> <router-link  to="/post/D2022P05"> پروژه ها</router-link></li>
+        <li> <router-link  to="/demo"> پروژه ها</router-link></li>
         <li> <router-link  to="/demo"> درخواست پروژه</router-link></li>
         <li> <router-link  to="/demo"> تیکه کد</router-link></li>
       </ul>

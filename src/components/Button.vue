@@ -1,5 +1,5 @@
 <template>
-  <button>ادامه مطلب</button>
+    <button><a href="http://localhost:8080/post/Jain">ادامه مطلب</a></button>
 </template>
 
 <script>
